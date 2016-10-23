@@ -22,3 +22,9 @@ _testmain.go
 *.exe
 *.test
 *.prof
+
+# Ignore go binari`es
+bin
+*/bin/*
+src
+*/src/*
